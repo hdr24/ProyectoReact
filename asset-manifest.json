@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24a692d5.css",
+    "main.js": "/static/js/main.c560d106.js",
+    "static/media/screenshot2.png": "/static/media/screenshot2.a040c8549360d6e7a868.png",
+    "static/media/screenshot3.webp": "/static/media/screenshot3.10d54cef8b758f43c732.webp",
+    "static/media/screenshot1.jpg": "/static/media/screenshot1.02b78edcf036c0a0db03.jpg",
+    "static/media/frogs.webp": "/static/media/frogs.5597ad32de57bae509f4.webp",
+    "static/media/minecraft.webp": "/static/media/minecraft.b6fa5b8faa1543e050ff.webp",
+    "static/media/reactlogo.png": "/static/media/reactlogo.8a6fc0a24a800d1e0f4a.png",
+    "static/media/mclogo.png": "/static/media/mclogo.a9bb9ba97ebd47a94bd1.png",
+    "static/media/allay.jpg": "/static/media/allay.3f18157578307a448ab6.jpg",
+    "static/media/dirt.jpg": "/static/media/dirt.27bd933ccd43f17dd5a9.jpg",
+    "static/media/googlelogo.png": "/static/media/googlelogo.73aa439985ed7420c2a3.png",
+    "static/media/loading.webp": "/static/media/loading.ac72961c221b1c174a56.webp",
+    "static/media/confused.jpg": "/static/media/confused.83d430fbe0f60b30d4c3.jpg",
+    "static/media/gitLogo.svg": "/static/media/gitLogo.e35c71752b296aa276f44b3be062ef25.svg",
+    "index.html": "/index.html",
+    "main.24a692d5.css.map": "/static/css/main.24a692d5.css.map",
+    "main.c560d106.js.map": "/static/js/main.c560d106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a692d5.css",
+    "static/js/main.c560d106.js"
+  ]
+}
